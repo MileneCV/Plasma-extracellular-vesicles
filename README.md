@@ -4,9 +4,8 @@
 
 ##### Distribution of selected pathway enrichment across 556 different clusters. The circle sizes represent the fold enrichment and the colors, p-values.
 
-![image](https://user-images.githubusercontent.com/112773242/226968325-fce00c06-5134-4fbf-af41-5adf932b8e8d.png)
 
-
+http://localhost:8888/files/X15_cluster_pathway_category.jpeg
 
 Clusters 10 and 11 were enriched 240 in proteins from several cell-to-cell communication pathways, such as pathways on antigen
 241 processing and presentation, ECM-receptor interaction, PD-L1 expression and PD-1 checkpoint,
