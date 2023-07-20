@@ -4,8 +4,8 @@
 
 ##### Distribution of selected pathway enrichment across 556 different clusters. The circle sizes represent the fold enrichment and the colors, p-values.
 
+![fig5](https://github.com/MileneCV/Plasma-extracellular-vesicles/assets/112773242/e790105a-19cc-48b7-be2b-0990f9156e4e)
 
-http://localhost:8888/files/X15_cluster_pathway_category.jpeg
 
 Clusters 10 and 11 were enriched 240 in proteins from several cell-to-cell communication pathways, such as pathways on antigen
 241 processing and presentation, ECM-receptor interaction, PD-L1 expression and PD-1 checkpoint,
